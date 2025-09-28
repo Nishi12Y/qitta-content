@@ -1,13 +1,13 @@
 ---
 title: Qiita CLIの導入とGitHubリポジトリとの紐付け(Mac)
 tags:
-  - 'Qiita'
-  - 'QiitaCLI'
-  - 'GitHub'
-  - '初心者'
+  - Qiita
+  - GitHub
+  - 初心者
+  - QiitaCLI
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-09-28T22:15:51+09:00'
+id: e97cadafee72d8bff284
 organization_url_name: null
 slide: false
 ignorePublish: false
